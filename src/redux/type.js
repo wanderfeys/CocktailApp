@@ -1,0 +1,5 @@
+export const DRINKS_LOAD = "DRINKS_LOAD";
+export const SET_DRINKS_COUNT = "SET_DRINKS_COUNT";
+export const DRINK_SCLEAR = "DRINK_SCLEAR";
+export const FILTERS = "FETCH_FILTERS";
+export const SET_CHECKED_FILTER = "SET_FILTER";
